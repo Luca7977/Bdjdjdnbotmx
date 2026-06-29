@@ -1,0 +1,11 @@
+{
+  "name": "botmccc",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.23.0"
+  }
+}
